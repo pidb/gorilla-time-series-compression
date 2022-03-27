@@ -1,0 +1,1 @@
+{"buildTargets":["all","astscan","clean","coverage","cyclo","deps","docs","errcheck","fmtcheck","format","gosimple","help","ineffassign","lint","misspell","nuke","qa","structcheck","test","varcheck","vet"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
